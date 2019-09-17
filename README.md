@@ -1,6 +1,6 @@
 # git-tutorial
 Learn how to use git
 
-Original source:
-EN - https://githowto.com/
-RU - https://githowto.com/ru
+Original source: <br>
+EN - https://githowto.com/ <br>
+RU - https://githowto.com/ru <br>
